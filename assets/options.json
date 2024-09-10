@@ -1,0 +1,9 @@
+{
+    "options": [
+        { "value": "carpinteria", "label": "Carpinteria" },
+        { "value": "peluqueria", "label": "Peluqueria" },
+        { "value": "herreria", "label": "Herreria" },
+        { "value": "electricista", "label": "Electricista" },
+        { "value": "manicura", "label": "Manicura" }
+    ]
+}
